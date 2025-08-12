@@ -15,15 +15,15 @@ The project comes with a clean UI to **encode text**, **decode tokens**, and **v
 ---
 
 ## 📂 Project Structure
-project-folder/
-.
+```
+Custom Tokenizer/
 │
 ├── index.html      # Main page for encoding/decoding
 ├── mapping.html    # Token mapping display page
 ├── style.css       # Styling for all pages
 ├── index.js        # Tokenizer logic and DOM handling
 └── README.md       # Project documentation
-
+```
 ---
 
 ## 📸 Demo
