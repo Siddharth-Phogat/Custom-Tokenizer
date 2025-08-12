@@ -17,11 +17,11 @@ The project comes with a clean UI to **encode text**, **decode tokens**, and **v
 ## 📂 Project Structure
 project-folder/
 │
-├── index.html # Main page for encoding/decoding
-├── mapping.html # Token mapping display page
-├── style.css # Styling for all pages
-├── index.js # Tokenizer logic and DOM handling
-└── README.md # Project documentation
+├── index.html/      # Main page for encoding/decoding
+├── mapping.html/    # Token mapping display page
+├── style.css/       # Styling for all pages
+├── index.js/        # Tokenizer logic and DOM handling
+└── README.md/       # Project documentation
 
 ---
 
@@ -52,25 +52,25 @@ project-folder/
    git clone https://github.com/your-username/custom-tokenizer.git
    cd custom-tokenizer
 2. **Open the Application**
-   - Simply open index.html in your browser.
-   - No additional setup required.
+- Simply open index.html in your browser.
+- No additional setup required.
 
 3. **Encode Text**
-   - Type any text in the Encode textarea.
-   - Click Encode to see:
-     - Input text
-     - Encoded token IDs
-     - Verification (decoded back to text)
+- Type any text in the Encode textarea.
+- Click Encode to see:
+  - Input text
+  - Encoded token IDs
+  - Verification (decoded back to text)
 
 4. **Decode Tokens**
-   - Type space-separated token IDs in the Decode textarea.
-   - Click Decode to see:
-     - Input token IDs
-     - Decoded text
-     - Verification (encoded back to token IDs)
+- Type space-separated token IDs in the Decode textarea.
+- Click Decode to see:
+   - Input token IDs
+   - Decoded text
+   - Verification (encoded back to token IDs)
 
 5. **View Token Mappings**
-   - Click View Token Mappings to see all character–token pairs.
+- Click View Token Mappings to see all character–token pairs.
 
 ---
 
