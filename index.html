@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Custom Tokenizer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1 id="heading">Custom Tokenizer</h1>
+
+<div class="tokenContainer">
+    <div id="encodeDiv">
+        <h3>Encode</h3>
+        <textarea id="textInput" placeholder="Enter text to encode..."></textarea>
+        <br>
+        <button onclick="encodeText()">Encode</button>
+    </div>
+    <div id="decodeDiv">
+        <h3>Decode</h3>
+        <textarea id="numberInput" placeholder="Enter token IDs to decode (space-separated)..."></textarea>
+        <br>
+        <button onclick="decodeText()">Decode</button>
+    </div>
+</div>
+<br>
+<div id="result" style="display:none;"></div>
+
+<script src="index.js"></script>
+</body>
+</html>
