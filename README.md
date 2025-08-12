@@ -29,8 +29,10 @@ Custom Tokenizer/
 ## 📸 Demo
 ### Encoding
 <img width="1636" height="913" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/21538e37-4cdf-4566-a5dc-656e10150cda" />
+
 ### Decoding
 <img width="1605" height="888" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/4a401bbc-8b92-4188-ab00-f17482c07d78" />
+
 ### Token Mapping
 <img width="1903" height="894" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/d05f0e94-243f-4349-9237-a97c1b6d39f4" />
 
