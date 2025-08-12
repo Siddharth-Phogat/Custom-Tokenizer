@@ -6,7 +6,7 @@ The project comes with a clean UI to **encode text**, **decode tokens**, and **v
 ---
 
 ## Live Demo
-Website Link - [Custom Tokenizer](custom-tokenizer-gamma.vercel.app)
+Website Link - [Custom Tokenizer](https://custom-tokenizer-gamma.vercel.app/)
 
 ## 🚀 Features
 - 🔤 **Encodes** characters (a-z, A-Z), numbers (0-9), and a wide range of special characters into token IDs.
